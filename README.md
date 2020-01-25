@@ -1,5 +1,5 @@
 # Flickr-Group-Images-Downloading
-This code is to download public images with meta-data from a Flickr group
+This code is to download public images with meta-data from a Flickr group using Python programming language
 
 This code assumes that you have an application with api_key and api_secret
 
